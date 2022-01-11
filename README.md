@@ -11,34 +11,20 @@ Twitter: [@cryptoforce310](https://twitter.com/cryptoforce310)
 - Veteran of US Air Force (Cryptologic Linguist 1N3) 
 
 
-### Markdown
+## Start Here 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Hacking Tools
+My Collection of resources for Hacking Tools, Pentesting, Blue Team, and Threat Hunting
 
-```markdown
-Syntax highlighted code block
+# Cyber Security Careers
+A list of resources to assist you with your career in Cyber Security
 
-# Header 1
-## Header 2
-### Header 3
+# Exploits and Vulnerabilities
+My Collection of online resources for known exploits, Zero Days, and Vulnerabilities  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptoforcecommand/Threat-Hunting-Resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Cyber Research
+My Collection of online resources related to the field of Cyber Security
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Page or have a suggestion?  Don't hesitate to reach out with a message or comment. 
