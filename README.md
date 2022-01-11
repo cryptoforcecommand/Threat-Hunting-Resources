@@ -1,7 +1,7 @@
 # Threat Hunting Resources
 My Collection of online resources for Cyber Security Professionals
 
-![Plane Image](https://github.com/cryptoforcecommand/Threat-Hunting-Resources/blob/main/images/Screen%20Shot%202022-01-08%20at%2011.41.21%20PM.png)
+<img src="https://github.com/cryptoforcecommand/Threat-Hunting-Resources/blob/main/images/Screen%20Shot%202022-01-08%20at%2011.41.21%20PM.png" width="150" height="280">
 
 ## About Me
 Twitter: [@cryptoforce310](https://twitter.com/cryptoforce310)
