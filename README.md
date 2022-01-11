@@ -17,6 +17,7 @@ Twitter: [@cryptoforce310](https://twitter.com/cryptoforce310)
 My Collection of online resources for Hacking, Pentesting, Blue Team, Incident Response, and Threat Hunting.  Happy Hunting! 
 
 - [Cyber Chef](https://gchq.github.io/CyberChef/)
+- [GreyNoise](https://www.greynoise.io/)
 - [Reverse Shell Cheatsheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 - [The Hive Project](https://thehive-project.org/)
 - [Hashcat](https://hashcat.net/hashcat/)
@@ -29,6 +30,11 @@ My Collection of online resources for Hacking, Pentesting, Blue Team, Incident R
 - [hping3](http://www.hping.org)
 - [Spiderfoot OSINT](https://www.spiderfoot.net/)
 - [kali Linux tools](https://www.kali.org)
+- [Hail a Taxi](http://hailataxii.com/)
+- [HoneyDB](https://riskdiscovery.com/honeydb/)
+- [Neo23x0 - Florian Roth Intel](https://github.com/Neo23x0/signature-base)
+- [Yara Rules](https://github.com/Yara-Rules/rules)
+- [Oasis-Open STIX and TAXII](https://oasis-open.github.io/cti-documentation/)
 
 
 # Cyber Security Careers
