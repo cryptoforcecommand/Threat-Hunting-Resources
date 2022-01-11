@@ -14,7 +14,8 @@ Twitter: [@cryptoforce310](https://twitter.com/cryptoforce310)
 ## Start Here 
 
 # Hacking Tools (Offense and Defense)
-My Collection of online resources for Hacking, Pentesting, Blue Team, Incident Response, and Threat Hunting
+My Collection of online resources for Hacking, Pentesting, Blue Team, Incident Response, and Threat Hunting.  Happy Hunting! 
+
 - [Cyber Chef](https://gchq.github.io/CyberChef/)
 - [Reverse Shell Cheatsheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 - [The Hive Project](https://thehive-project.org/)
@@ -31,7 +32,7 @@ My Collection of online resources for Hacking, Pentesting, Blue Team, Incident R
 
 
 # Cyber Security Careers
-The morality of the work is what attracts a lot cyber security professionals to stay up late, work long hours, and study non stop.  A lot of us just want to save the company, do something right, and save the world.  If this sounds like you, here is a list of resources to assist you with your career in Cyber Security:
+The morality of the work is what attracts a lot of us cyber security professionals to stay up late, work long hours, and study non stop.  A lot of us just want to save the company, do something right, and save the world.  If this sounds like you, here is a list of resources to assist you with your career in Cyber Security:
 
 - [U.S. Digital Corps - Cybercareers.gov](https://www.cybercareers.gov/)
 - [Indeed.com Cyber Jobs](https://www.indeed.com/q-Cyber-Security-jobs.html?vjk=564b96a76d8b29be)
