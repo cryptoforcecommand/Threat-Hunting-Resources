@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+# Threat Hunting Resources
+My Collection of online resources for Cyber Security Professionals
 
-You can use the [editor on GitHub](https://github.com/cryptoforcecommand/Threat-Hunting-Resources/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+Twitter: [@cryptoforce310](https://twitter.com/cryptoforce310)
+- Experienced Cyber Security professional
+- Technologist and Technical Manager for two Unicorn Cyber Security startups (Tanium and Vectra AI)
+- Focused on Incident Response, Threat Hunting, Threat Analysis and Endpoint engineering
+- Masters in IT Management (University of Virginia)
+- 15 years TS/SCI clearance supporting the Intelligence Community as analyst and technologist
+- Veteran of US Air Force (Cryptologic Linguist 1N3) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
