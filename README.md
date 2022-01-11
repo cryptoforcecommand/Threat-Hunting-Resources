@@ -39,7 +39,7 @@ The morality of the work is what attracts a lot cyber security professionals to 
 - [Cyberseek.org](https://www.cyberseek.org/pathway.html)
 - [Cybersecurityeducation.org](https://www.cybersecurityeducation.org/careers/)
 - [Comptia Top Cyber Security jobs](https://www.comptia.org/blog/the-top-9-jobs-in-cybersecurity)
-- [nsa.gov](https://www.nsa.gov/careers/)
+- [Nsa.gov](https://www.nsa.gov/careers/)
 - [US Government Jobs](https://www.usajobs.gov/)
 
 
@@ -52,7 +52,7 @@ My Collection of online resources to research known exploits, techniques, Threat
 - [CVE Details](https://www.cvedetails.com/)
 - [US CERT - CISA.gov](https://www.cisa.gov/uscert/ncas)
 - [DISA Security Technical Implementation Guides](https://public.cyber.mil/stigs/)
-- [Center for Internet Security] (https://www.cisecurity.org/)
+- [Center for Internet Security](https://www.cisecurity.org/)
 - [APT Groups and Operations](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=1864660085)
 
 
