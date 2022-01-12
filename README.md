@@ -35,6 +35,7 @@ My Collection of online resources for Hacking, Pentesting, Blue Team, Incident R
 - [Neo23x0 - Florian Roth Intel](https://github.com/Neo23x0/signature-base)
 - [Yara Rules](https://github.com/Yara-Rules/rules)
 - [Oasis-Open STIX and TAXII](https://oasis-open.github.io/cti-documentation/)
+- [Responder simulator](https://github.com/SpiderLabs/Responder)
 
 
 # Cyber Security Careers
